@@ -1,0 +1,1 @@
+This blob will be accessible to clients via a shared access signature (SAS).
